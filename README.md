@@ -1,6 +1,6 @@
 # software-requirements-engineering-project
 
-Collaborative academic project focused on stakeholder analysis, requirements engineering, system modeling, and iterative software documentation.
+Collaborative academic project exploring stakeholder analysis, requirements engineering, system modeling, and iterative software documentation.
 
 ---
 
