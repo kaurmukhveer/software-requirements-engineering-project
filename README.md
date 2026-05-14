@@ -45,7 +45,32 @@ docs/ → project deliverables and documentation
 
 diagrams/ → UML and system modeling visuals
 
+
 prototypes/ → interface prototypes and concept designs
+
+---
+
+# System Design
+
+## Domain Model
+
+![Domain Model](diagrams/domain-model.png)
+
+---
+
+# Interface Prototypes
+
+## Main Interface Prototype
+
+![Main Interface](prototypes/main-interface-prototype.png)
+
+## Chatbot Interaction Prototype
+
+![Chatbot Prototype](prototypes/chatbot-interaction-prototype.png)
+
+## Persona Prototype
+
+![Persona Prototype](prototypes/persona-prototype.png)
 
 ---
 
