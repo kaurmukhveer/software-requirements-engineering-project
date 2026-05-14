@@ -6,7 +6,7 @@ Collaborative academic project exploring stakeholder analysis, requirements engi
 
 # Project Overview
 
-This project explored the design of a Virtual Stakeholder System (VSS), a conceptual platform intended to support stakeholder interaction and requirements planning workflows.
+This project explored the design of a Virtual Stakeholder System (VSS), a conceptual platform intended to support stakeholder interaction and requirements analysis workflows.
 
 Key focus areas included:
 - user stories
@@ -35,7 +35,7 @@ I also learned the importance of teamwork, communication, and iterative improvem
 
 # Team Collaboration
 
-This project was completed collaboratively in a team environment with progressive deliverables and stakeholder interview activities throughout the course.
+This project was completed collaboratively in a team environment with iterative improvements across multiple deliverables based on feedback, stakeholder interviews, and team discussions.
 
 ---
 
